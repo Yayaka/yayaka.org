@@ -7,9 +7,9 @@ const IndexPage = () => (
     <h2>External Links</h2>
     <ul>
       <li>
-        <Link to="https://github.com/Yayaka">
+        <a href="https://github.com/Yayaka">
           GitHub Organization
-        </Link>
+        </a>
       </li>
     </ul>
   </div>
